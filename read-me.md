@@ -6,5 +6,15 @@
 
 - **Se non** voglio una pizza diversa
     - chiamo la pizzeria
-    - ordino la pizza 
+- **Altrimenti** se ho voglia di una pizza diversa
+    - leggo il listino pizze
+    - scelgo la pizza 
+- **Se** la pizza che ho scelto è disponibile
     - aspetto la consegna
+- Pago
+- Mangio una fetta di pizza
+- **Se** sono sazio 
+    - metto la pizza rimanente in frigo
+- **Altrimenti** 
+    - controllo se ci sono fette a disposizione
+    - mangio una fetta di pizza
